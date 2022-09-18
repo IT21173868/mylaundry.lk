@@ -1,5 +1,5 @@
 # mylaundry.lk
-mplemented Functionalities 
+Implemented Functionalities 
 Dynamically display order items from the database 
 Working cart using sessions 
 Contact us form to get and store user input
